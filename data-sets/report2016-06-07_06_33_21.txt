@@ -1,0 +1,100 @@
+{
+    "FromLastUserRequest": -10000000,
+    "PayloadSize": 11,
+    "ProcessingTime": 0.004548452883512244
+}
+{
+    "FromLastUserRequest": 1.0,
+    "PayloadSize": 7,
+    "ProcessingTime": 0.892904194110121
+}
+{
+    "FromLastUserRequest": -10000000,
+    "PayloadSize": 6,
+    "ProcessingTime": 0.07361224889104778
+}
+{
+    "FromLastUserRequest": 1.0,
+    "PayloadSize": 9,
+    "ProcessingTime": 0.7868800989550091
+}
+{
+    "FromLastUserRequest": 1.0,
+    "PayloadSize": 16,
+    "ProcessingTime": 0.13239566376494172
+}
+{
+    "FromLastUserRequest": -10000000,
+    "PayloadSize": 6,
+    "ProcessingTime": 0.46683108324098854
+}
+{
+    "FromLastUserRequest": 0.0,
+    "PayloadSize": 12,
+    "ProcessingTime": 0.08737553169311818
+}
+{
+    "FromLastUserRequest": 0.0,
+    "PayloadSize": 15,
+    "ProcessingTime": 0.8499607522650656
+}
+{
+    "FromLastUserRequest": 0.0,
+    "PayloadSize": 14,
+    "ProcessingTime": 0.7275116531972425
+}
+{
+    "FromLastUserRequest": 0.0,
+    "PayloadSize": 6,
+    "ProcessingTime": 0.20216368464585432
+}
+{
+    "FromLastUserRequest": -10000000,
+    "PayloadSize": 3,
+    "ProcessingTime": 0.07301762658057642
+}
+{
+    "FromLastUserRequest": 1.0,
+    "PayloadSize": 11,
+    "ProcessingTime": 0.4340952927772739
+}
+{
+    "FromLastUserRequest": 1.0,
+    "PayloadSize": 9,
+    "ProcessingTime": 0.9144486082231866
+}
+{
+    "FromLastUserRequest": 0.0,
+    "PayloadSize": 5,
+    "ProcessingTime": 0.5310315366347702
+}
+{
+    "FromLastUserRequest": 1.0,
+    "PayloadSize": 14,
+    "ProcessingTime": 0.942287875705184
+}
+{
+    "FromLastUserRequest": 1.0,
+    "PayloadSize": 6,
+    "ProcessingTime": 0.0815303293344376
+}
+{
+    "FromLastUserRequest": 0.0,
+    "PayloadSize": 6,
+    "ProcessingTime": 0.27524474286634226
+}
+{
+    "FromLastUserRequest": 1.0,
+    "PayloadSize": 6,
+    "ProcessingTime": 0.7899814439838291
+}
+{
+    "FromLastUserRequest": 1.0,
+    "PayloadSize": 8,
+    "ProcessingTime": 0.8262719191893431
+}
+{
+    "FromLastUserRequest": 1.0,
+    "PayloadSize": 5,
+    "ProcessingTime": 0.3427325719530714
+}

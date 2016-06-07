@@ -1,0 +1,50 @@
+{
+    "PayloadSize": 4,
+    "FromLastUserRequest": -10000000,
+    "ProcessingTime": 0.9689625560191972
+}
+{
+    "PayloadSize": 10,
+    "FromLastUserRequest": 2.0,
+    "ProcessingTime": 0.6471854669604198
+}
+{
+    "PayloadSize": 7,
+    "FromLastUserRequest": 3.0,
+    "ProcessingTime": 0.28447806561644673
+}
+{
+    "PayloadSize": 4,
+    "FromLastUserRequest": 1.0,
+    "ProcessingTime": 0.163660914519544
+}
+{
+    "PayloadSize": 12,
+    "FromLastUserRequest": 3.0,
+    "ProcessingTime": 0.02996335023524921
+}
+{
+    "PayloadSize": 10,
+    "FromLastUserRequest": 1.0,
+    "ProcessingTime": 0.4479408511663012
+}
+{
+    "PayloadSize": 13,
+    "FromLastUserRequest": 2.0,
+    "ProcessingTime": 0.3715712943793068
+}
+{
+    "PayloadSize": 12,
+    "FromLastUserRequest": 2.0,
+    "ProcessingTime": 0.8443797462790137
+}
+{
+    "PayloadSize": 14,
+    "FromLastUserRequest": 2.0,
+    "ProcessingTime": 0.09007793170803957
+}
+{
+    "PayloadSize": 14,
+    "FromLastUserRequest": 2.0,
+    "ProcessingTime": 0.9457896955268534
+}

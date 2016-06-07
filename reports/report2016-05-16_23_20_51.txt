@@ -1,0 +1,14 @@
+{
+    "request": {
+        "Accept-Language": "en,pl;q=0.8,en-US;q=0.6",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "Time": "2016-05-16 23:20:51",
+        "IP-Address": null,
+        "FromLastUserRequest": 0,
+        "addr": null,
+        "Host": "localhost:5000",
+        "Accept-Encoding": "gzip, deflate, sdch",
+        "TimeStamp": 1463433651.0,
+        "FromLastRequest": 0
+    }
+}

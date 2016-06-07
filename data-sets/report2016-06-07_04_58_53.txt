@@ -1,0 +1,15 @@
+{
+    "FromLastUserRequest": -10000000,
+    "ProcessingTime": 0.6290098661860064,
+    "PayloadSize": 7
+}
+{
+    "FromLastUserRequest": 1.0,
+    "ProcessingTime": 0.31949100587151347,
+    "PayloadSize": 5
+}
+{
+    "FromLastUserRequest": 4.0,
+    "ProcessingTime": 0.03970553727789916,
+    "PayloadSize": 3
+}

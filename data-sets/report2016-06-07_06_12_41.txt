@@ -1,0 +1,100 @@
+{
+    "PayloadSize": 12,
+    "FromLastUserRequest": -10000000,
+    "ProcessingTime": 0.8879382603032706
+}
+{
+    "PayloadSize": 14,
+    "FromLastUserRequest": 1.0,
+    "ProcessingTime": 0.3082473641111836
+}
+{
+    "PayloadSize": 5,
+    "FromLastUserRequest": 0.0,
+    "ProcessingTime": 0.099651429371175
+}
+{
+    "PayloadSize": 15,
+    "FromLastUserRequest": 0.0,
+    "ProcessingTime": 0.3222679308959946
+}
+{
+    "PayloadSize": 11,
+    "FromLastUserRequest": -10000000,
+    "ProcessingTime": 0.9425070248220957
+}
+{
+    "PayloadSize": 10,
+    "FromLastUserRequest": 1.0,
+    "ProcessingTime": 0.3236463470231281
+}
+{
+    "PayloadSize": 9,
+    "FromLastUserRequest": 0.0,
+    "ProcessingTime": 0.25419918078425274
+}
+{
+    "PayloadSize": 4,
+    "FromLastUserRequest": -10000000,
+    "ProcessingTime": 0.4195525892732088
+}
+{
+    "PayloadSize": 9,
+    "FromLastUserRequest": 2.0,
+    "ProcessingTime": 0.9817962355232848
+}
+{
+    "PayloadSize": 12,
+    "FromLastUserRequest": 2.0,
+    "ProcessingTime": 0.7745668612157341
+}
+{
+    "PayloadSize": 3,
+    "FromLastUserRequest": 0.0,
+    "ProcessingTime": 0.09596066437983297
+}
+{
+    "PayloadSize": 11,
+    "FromLastUserRequest": -10000000,
+    "ProcessingTime": 0.5020015645315183
+}
+{
+    "PayloadSize": 12,
+    "FromLastUserRequest": 1.0,
+    "ProcessingTime": 0.7625754651699281
+}
+{
+    "PayloadSize": 11,
+    "FromLastUserRequest": 1.0,
+    "ProcessingTime": 0.5570264407894707
+}
+{
+    "PayloadSize": 6,
+    "FromLastUserRequest": 1.0,
+    "ProcessingTime": 0.5348089780773913
+}
+{
+    "PayloadSize": 16,
+    "FromLastUserRequest": 0.0,
+    "ProcessingTime": 0.7770620960929144
+}
+{
+    "PayloadSize": 11,
+    "FromLastUserRequest": 1.0,
+    "ProcessingTime": 0.04639847547215248
+}
+{
+    "PayloadSize": 10,
+    "FromLastUserRequest": 1.0,
+    "ProcessingTime": 0.7389063008413943
+}
+{
+    "PayloadSize": 8,
+    "FromLastUserRequest": 0.0,
+    "ProcessingTime": 0.3950350326517056
+}
+{
+    "PayloadSize": 7,
+    "FromLastUserRequest": 2.0,
+    "ProcessingTime": 0.923210369519152
+}

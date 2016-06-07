@@ -1,0 +1,21 @@
+{
+    "request": {
+        "PayloadSize": 0,
+        "ProcessingTime": null,
+        "FromLastUserRequest": -100000
+    }
+}
+{
+    "request": {
+        "PayloadSize": 0,
+        "ProcessingTime": null,
+        "FromLastUserRequest": 0.0
+    }
+}
+{
+    "request": {
+        "PayloadSize": 0,
+        "ProcessingTime": null,
+        "FromLastUserRequest": 1.0
+    }
+}

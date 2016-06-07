@@ -1,0 +1,100 @@
+{
+    "ProcessingTime": 0.0012656539796083166,
+    "FromLastUserRequest": -10000000,
+    "PayloadSize": 8
+}
+{
+    "ProcessingTime": 0.21375690286229498,
+    "FromLastUserRequest": 0.0,
+    "PayloadSize": 4
+}
+{
+    "ProcessingTime": 0.5180998211159271,
+    "FromLastUserRequest": -10000000,
+    "PayloadSize": 16
+}
+{
+    "ProcessingTime": 0.7067372401335057,
+    "FromLastUserRequest": 1.0,
+    "PayloadSize": 13
+}
+{
+    "ProcessingTime": 0.671431766302951,
+    "FromLastUserRequest": 0.0,
+    "PayloadSize": 7
+}
+{
+    "ProcessingTime": 0.5410869933749072,
+    "FromLastUserRequest": -10000000,
+    "PayloadSize": 14
+}
+{
+    "ProcessingTime": 0.6333834626162658,
+    "FromLastUserRequest": 1.0,
+    "PayloadSize": 13
+}
+{
+    "ProcessingTime": 0.15606197136461963,
+    "FromLastUserRequest": 1.0,
+    "PayloadSize": 0
+}
+{
+    "ProcessingTime": 0.6429666778428178,
+    "FromLastUserRequest": 0.0,
+    "PayloadSize": 7
+}
+{
+    "ProcessingTime": 0.5673678413363745,
+    "FromLastUserRequest": -10000000,
+    "PayloadSize": 10
+}
+{
+    "ProcessingTime": 0.224166684222721,
+    "FromLastUserRequest": 0.0,
+    "PayloadSize": 13
+}
+{
+    "ProcessingTime": 0.20168884337176496,
+    "FromLastUserRequest": 1.0,
+    "PayloadSize": 5
+}
+{
+    "ProcessingTime": 0.25089272834695886,
+    "FromLastUserRequest": 1.0,
+    "PayloadSize": 9
+}
+{
+    "ProcessingTime": 0.301592679425968,
+    "FromLastUserRequest": 1.0,
+    "PayloadSize": 22
+}
+{
+    "ProcessingTime": 0.5748412763809709,
+    "FromLastUserRequest": 1.0,
+    "PayloadSize": 17
+}
+{
+    "ProcessingTime": 0.6128711382559888,
+    "FromLastUserRequest": 0.0,
+    "PayloadSize": 8
+}
+{
+    "ProcessingTime": 0.2952852457998807,
+    "FromLastUserRequest": 1.0,
+    "PayloadSize": 13
+}
+{
+    "ProcessingTime": 0.9173580189258062,
+    "FromLastUserRequest": 1.0,
+    "PayloadSize": 15
+}
+{
+    "ProcessingTime": 0.786097336156599,
+    "FromLastUserRequest": 1.0,
+    "PayloadSize": 16
+}
+{
+    "ProcessingTime": 0.9488915538983953,
+    "FromLastUserRequest": 1.0,
+    "PayloadSize": 7
+}

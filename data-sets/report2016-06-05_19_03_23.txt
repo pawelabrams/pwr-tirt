@@ -1,0 +1,100 @@
+{
+    "FromLastUserRequest": -10000000,
+    "ProcessingTime": 0.996049635943405,
+    "PayloadSize": 0
+}
+{
+    "FromLastUserRequest": 4.0,
+    "ProcessingTime": 0.17396112271045472,
+    "PayloadSize": 7
+}
+{
+    "FromLastUserRequest": 4.0,
+    "ProcessingTime": 0.3580841554458343,
+    "PayloadSize": 2
+}
+{
+    "FromLastUserRequest": 4.0,
+    "ProcessingTime": 0.6608855629558958,
+    "PayloadSize": 13
+}
+{
+    "FromLastUserRequest": 4.0,
+    "ProcessingTime": 0.7532778286927777,
+    "PayloadSize": 25
+}
+{
+    "FromLastUserRequest": 4.0,
+    "ProcessingTime": 0.09401361503423011,
+    "PayloadSize": 16
+}
+{
+    "FromLastUserRequest": 4.0,
+    "ProcessingTime": 0.9079954409244109,
+    "PayloadSize": 7
+}
+{
+    "FromLastUserRequest": 4.0,
+    "ProcessingTime": 0.40957699360733546,
+    "PayloadSize": 11
+}
+{
+    "FromLastUserRequest": 3.0,
+    "ProcessingTime": 0.7314465210290555,
+    "PayloadSize": 3
+}
+{
+    "FromLastUserRequest": 5.0,
+    "ProcessingTime": 0.9254814146525949,
+    "PayloadSize": 10
+}
+{
+    "FromLastUserRequest": 3.0,
+    "ProcessingTime": 0.12211351450845576,
+    "PayloadSize": 11
+}
+{
+    "FromLastUserRequest": 6.0,
+    "ProcessingTime": 0.7332421118645183,
+    "PayloadSize": 11
+}
+{
+    "FromLastUserRequest": 4.0,
+    "ProcessingTime": 0.979905942543136,
+    "PayloadSize": 4
+}
+{
+    "FromLastUserRequest": 5.0,
+    "ProcessingTime": 0.07133185988569779,
+    "PayloadSize": 10
+}
+{
+    "FromLastUserRequest": 4.0,
+    "ProcessingTime": 0.4671563988148839,
+    "PayloadSize": 10
+}
+{
+    "FromLastUserRequest": 4.0,
+    "ProcessingTime": 0.8163895250024051,
+    "PayloadSize": 3
+}
+{
+    "FromLastUserRequest": 5.0,
+    "ProcessingTime": 0.47536585834958767,
+    "PayloadSize": 16
+}
+{
+    "FromLastUserRequest": 4.0,
+    "ProcessingTime": 0.2536447061980074,
+    "PayloadSize": 6
+}
+{
+    "FromLastUserRequest": 4.0,
+    "ProcessingTime": 0.5977478148961797,
+    "PayloadSize": 16
+}
+{
+    "FromLastUserRequest": 4.0,
+    "ProcessingTime": 0.6838273258511083,
+    "PayloadSize": 2
+}

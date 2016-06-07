@@ -1,0 +1,115 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>ADC</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+    <link href="starter-template.css" rel="stylesheet">
+    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+</head>
+
+<body ng-app="path-finder">
+
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false"
+                    aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">Anomaly Detection using Clustering</a>
+            </div>
+            <div id="navbar" class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="#">Panel</a></li>
+
+                    <li><a href="mock-traffic.html">Mock traffic trainer</a></li>
+                    <li><a href="#about">About</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container" ng-controller="PanelController">
+
+        <div class="starter-template">
+            <h1>Panel</h1>
+            <table class="table">
+                <tr>
+                    <td>Status</td>
+                    <td>{{status}}</td>
+                </tr>
+                <tr>
+                    <th colspan="2" style="text-align: center;">Training</th>
+                </tr>
+                <tr>
+                    <td><button class="btn btn-default" ng-class="{'disabled':status!=='none'}" data-ng-click="startCollectingData()">Start collecting training data</button></td>
+                    <td><button class="btn btn-default" ng-class="{'disabled':status!=='collecting_data'}" data-ng-click="stopCollectingData()">Stop collecting training data</button></td>
+                </tr>
+
+                <tr>
+                    <th colspan="2" style="text-align: center;">Clustering</th>
+                </tr>
+                <tr>
+                    <td>Clusters number:<input type="number" ng-disabled="clustersNumberDisabled()" ng-model="clustersNumber"></td>
+                    <td><button class="btn btn-default" ng-class="{'disabled':startClusteringDisabled()}" data-ng-click="startClustering()">Start clustering</button></td>
+                </tr>
+
+                <tr>
+                    <th colspan="2" style="text-align: center;">Mode selection</th>
+                </tr>
+                <tr>
+                    <td><button class="btn btn-default" ng-disabled="!isDataClustered()" data-ng-click="selectOutliersDetection()">Outliers detection</button></td>
+                    <td><button class="btn btn-default" ng-disabled="!isDataClustered()" data-ng-click="selectAssignmentBasedDetection()">Cluster assignment based clustering</button></td>
+                </tr>
+                <tbody ng-if="isAssignmentStarted()">
+                    <tr>
+                        <th colspan="2" style="text-align: center;">Clusters evaluation</th>
+                    </tr>
+                    <tr>
+                        <td colspan="2"><a class="btn btn-default" href="/Web/cluster-evaluator.html">Evaluate clusters</button></td>
+                </tr>
+                </tbody>
+                <tbody ng-if="status=='outliers_started'">
+                <tr>
+                    <th colspan="2" style="text-align: center;">Outliers detection config</th>
+                </tr>
+            <tr>
+                    <td>Proximity index:<input type="number" ng-disabled="status!=='outliers_started'" ng-model="proximityIndex" step="0.01" min="1"></td>
+                    <td><button class="btn btn-default" ng-class="{'disabled':setOutliersDetectionConfigDisabled()}" data-ng-click="setOutliersDetectionConfig()">Save config</button></td>
+                </tr>
+                </tbody>
+                <tr>
+                    <th colspan="2" style="text-align: center;">Monitoring</th>
+                </tr>
+                <tr>
+                    <td colspan="2"><button class="btn btn-default" ng-disabled="!canStartMonitoring()" ng-click="startMonitoring()">Start monitoring</button></td>
+                </tr>
+                <tr ng-if="monitoringStarted()">
+                    <td colspan="2"><a href="/Web/report-viewer.html" target="_blank" class="btn btn-default">View report</button></td>
+                </tr>
+            </table>
+        </div>
+
+    </div>
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+    <script src="javascript/app.js"></script>
+    <script src="javascript/PanelController.js"></script>
+    <script src="javascript/statusService.js"></script>
+    <script src="javascript/external/angucomplete-alt.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>
+        window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')
+    </script>
+    <script src="js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+</body>
+
+</html>

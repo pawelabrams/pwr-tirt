@@ -1,0 +1,1 @@
+var app=angular.module('path-finder', ["angucomplete-alt"]);
